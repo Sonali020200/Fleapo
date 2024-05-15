@@ -1,3 +1,4 @@
+
 # FasterUI 
 
 ---
@@ -37,26 +38,28 @@ git clone https://github.com/Sonali020200/Fleapo.git
 
 ** Desktop View **
 
-<video width="320" height="240" controls>
-  <source src="./assets/Preview-1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/Sonali020200/Fleapo/assets/147674653/0d97ee79-2910-4815-b78b-6e8a4d398ce0
+
 
 
 ** Tablet View **
 
-<video width="320" height="240" controls>
-  <source src="./assets/tablet_view.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/Sonali020200/Fleapo/assets/147674653/53a6b9f8-2ba1-4e02-bf0c-baa2d88d6aa3
+
+
 
 
 ** Mobile View **
 
-<video width="320" height="240" controls>
-  <source src="./assets/mobile_view.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/Sonali020200/Fleapo/assets/147674653/34ab69e8-2595-41ff-a7f1-c27f63b42802
+
+
 
 ## Credits
 
