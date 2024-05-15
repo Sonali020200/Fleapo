@@ -34,6 +34,12 @@ git clone https://github.com/Sonali020200/Fleapo.git
 3. Customize the design by editing the `styles.css` file to suit your project requirements.
 4. Enhance interactivity by modifying the `script.js` file to incorporate additional features as needed.
 
+
+## Deployed link:
+
+https://coruscating-platypus-b95324.netlify.app/
+
+
 ## Preview
 
 ### Desktop View 
