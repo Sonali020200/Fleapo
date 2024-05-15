@@ -36,7 +36,7 @@ git clone https://github.com/Sonali020200/Fleapo.git
 
 ## Preview
 
-** Desktop View **
+### Desktop View 
 
 
 
@@ -44,7 +44,7 @@ https://github.com/Sonali020200/Fleapo/assets/147674653/0d97ee79-2910-4815-b78b-
 
 
 
-** Tablet View **
+### Tablet View
 
 
 
@@ -53,7 +53,7 @@ https://github.com/Sonali020200/Fleapo/assets/147674653/53a6b9f8-2ba1-4e02-bf0c-
 
 
 
-** Mobile View **
+### Mobile View 
 
 
 
