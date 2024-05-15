@@ -24,7 +24,7 @@
 }
 .bgImage {
 	position: absolute;
-	background-image: url("./public/flashbackground.png");
+	background-image: url("./assets/flashbackground.png");
 	border: none;
 	width: 95%;
 	top: 0;
