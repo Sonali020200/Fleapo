@@ -35,7 +35,19 @@ git clone https://github.com/Sonali020200/Fleapo.git
 
 ## Preview
 
-[Insert Preview Image or Link Here]
+** Desktop View **
+
+![Desktop Preview](./assets/Preview-1.mp4)
+
+
+** Tablet View **
+
+![Tablet Preview](/assets/tablet_view.mp4)
+
+
+** Mobile View **
+
+![Mobile Preview](./assets/mobile_view.mp4)
 
 ## Credits
 
