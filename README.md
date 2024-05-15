@@ -37,17 +37,26 @@ git clone https://github.com/Sonali020200/Fleapo.git
 
 ** Desktop View **
 
-![Desktop Preview](./assets/Preview-1.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/Preview-1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ** Tablet View **
 
-![Tablet Preview](/assets/tablet_view.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/tablet_view.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ** Mobile View **
 
-![Mobile Preview](./assets/mobile_view.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/mobile_view.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Credits
 
