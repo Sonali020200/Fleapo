@@ -231,7 +231,7 @@ a {
 /* check-our-work */
 .work-container {
 	width: 100%;
-	background-image: url("./public//checkourwork.png");
+	background-image: url("./assets/checkourwork.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
@@ -492,7 +492,7 @@ a {
 /* frequently asked question  */
 .frequently-container {
 	margin-top: 100px;
-	background-image: url("./public/half-round-ring.png");
+	background-image: url("./assets/half-round-ring.png");
 	background-size: 30%;
 	background-repeat: no-repeat;
 	background-position: left center;
@@ -566,7 +566,7 @@ a {
 	margin-top: 100px;
 	padding-top: 50px;
 	border-top: 0.5px solid #d6dded;
-	background-image: url("./public/spiral.png");
+	background-image: url("./assets/spiral.png");
 	background-repeat: no-repeat;
 	background-size: 20%;
 	background-position: right 0px;
@@ -635,8 +635,8 @@ a {
 	margin-top: 10px;
 }
 .footerBackgroundContainer {
-	background-image: url("./public/footer-bg.png"),
-		url("./public/starshapbg.png");
+	background-image: url("./assets/footer-bg.png"),
+		url("./assets/starshapbg.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center, left center;
